@@ -4,14 +4,15 @@
 <a href="https://nodejs.org/t"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
 <a href="https://python.org/"><img src="https://img.shields.io/badge/-Python-048CFF?style=flat&logo=python"/></a>
 <a href="https://lua.org/"><img src="https://img.shields.io/badge/-Lua-0072FF?style=flat&logo=lua"/></a>
-<a href="https://docs.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/-Vue_(Learning)-68217a?style=flat&logo=vue"/></a>
+<a href="vue.com"><img src="https://img.shields.io/badge/-Vue_(Learning)-4FC08D?style=flat&logo=vuedotjs"/></a>
 
 <h2><strong>🛠️ Ambiente de Desarollo: </strong></h2>
 <a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
 <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-Linux (Debian)-D70651?style=flat&logo=debian"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Bun-4a7558?style=flat&logo=bun&logoColor=white"/></a>
-<a href="https://pypi.org/project/discord.py/"><img src="https://img.shields.io/badge/-TailwindCSS-FFD344?style=flat&logoColor=white&logo=tailwind"/></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logoColor=white&logo=tailwindcss"/></a>
+<a href="https://nuxt.com/"><img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=bun&logoColor=white"/></a>
 
 <br><br>
 
