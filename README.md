@@ -16,7 +16,7 @@
 <h2><strong>🛠️ Frameworks: </strong></h2>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Bun-4a7558?style=flat&logo=bun&logoColor=white"/></a>
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logoColor=white&logo=tailwindcss"/></a>
-<a href="https://nuxt.com/"><img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=bun&logoColor=white"/></a
+<a href="https://nuxt.com/"><img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=bun&logoColor=white"/></a>
 ```js
 {
     nombre = "Andre Safe Bucketbranch",
