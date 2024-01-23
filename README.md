@@ -17,6 +17,9 @@
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Bun-4a7558?style=flat&logo=bun&logoColor=white"/></a>
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logoColor=white&logo=tailwindcss"/></a>
 <a href="https://nuxt.com/"><img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=bun&logoColor=white"/></a>
+
+<br><br>
+
 ```js
 {
     nombre = "Andre Safe Bucketbranch",
@@ -28,6 +31,7 @@
 }
 
 ```
+<br><br>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bucketbranc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" alt="andre's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bucketbranc&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
