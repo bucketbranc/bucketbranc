@@ -20,17 +20,6 @@
 
 <br><br>
 
-```js
-{
-    nombre = "Andre Safe Bucketbranch",
-    sexo = "hombre",
-    mascota = "cat",
-    pasatiempo = "programar, hakiar y taekwondo",
-    ig = parabellum("42234242885838533239841774"),
-    languages = {"en-MX", "es-MX", "fr-FR", "pt-BR"}
-}
-
-```
 <br><br>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bucketbranc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" alt="andre's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bucketbranc&hide_border=true&theme=transparent" /></a> |
